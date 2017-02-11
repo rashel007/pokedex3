@@ -13,6 +13,7 @@
 		264A2A371E4F7B3B005255C8 /* pokedex3.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 264A2A351E4F7B3B005255C8 /* pokedex3.xcdatamodeld */; };
 		264A2A391E4F7B3B005255C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 264A2A381E4F7B3B005255C8 /* Assets.xcassets */; };
 		264A2A3C1E4F7B3B005255C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 264A2A3A1E4F7B3B005255C8 /* LaunchScreen.storyboard */; };
+		264A2A441E4F7F57005255C8 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 264A2A431E4F7F57005255C8 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		264A2A381E4F7B3B005255C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		264A2A3B1E4F7B3B005255C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		264A2A3D1E4F7B3B005255C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		264A2A431E4F7F57005255C8 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				264A2A301E4F7B3B005255C8 /* ViewController.swift */,
 				264A2A321E4F7B3B005255C8 /* Main.storyboard */,
 				264A2A381E4F7B3B005255C8 /* Assets.xcassets */,
+				264A2A431E4F7F57005255C8 /* pokemon.csv */,
 				264A2A3A1E4F7B3B005255C8 /* LaunchScreen.storyboard */,
 				264A2A3D1E4F7B3B005255C8 /* Info.plist */,
 				264A2A351E4F7B3B005255C8 /* pokedex3.xcdatamodeld */,
@@ -128,6 +131,7 @@
 			files = (
 				264A2A3C1E4F7B3B005255C8 /* LaunchScreen.storyboard in Resources */,
 				264A2A391E4F7B3B005255C8 /* Assets.xcassets in Resources */,
+				264A2A441E4F7F57005255C8 /* pokemon.csv in Resources */,
 				264A2A341E4F7B3B005255C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				264A2A421E4F7B3B005255C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
